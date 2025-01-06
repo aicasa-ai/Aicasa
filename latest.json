@@ -1,0 +1,11 @@
+{
+  "version": "0.1.1",
+  "notes": "<div><p>test release note for 0.1.1</p><p>line 2</p><p>line 3</p><a href='http://www.baidu.com'>click me</a></div>",
+  "pub_date": "2025-01-06T00:00:00Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRL0RPbWpRMGxGblZvUms1VjVVek9FbUowYUxOZVoxS1QzcnVlNXJFMDBKVlRVQnNVTVd4aGtkS0l1Y2x5YjBlRWJ0MlAyU1RUNUdJQXE3bXFvM0c4Z0o2dVlGWXMvdndBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzM2MTcwMDgxCWZpbGU6QWljYXNhXzAuMS4xX3g2NF9lbi1VUy5tc2kKY1lCVldqNktVbmFkQjhTUyttR0FyRC9YZXZXK0tDblh0aURuV3BDeEZlbXBpbEdzTFNITUhsVngxWTArRWJPNzQzdnJXYkh3MHpqSERVR29qeWUwQWc9PQo=",
+      "url": "https://github.com/aicasa-ai/Aicasa/releases/download/0.1.1/Aicasa_0.1.1_x64_en-US.zip"
+    }
+  }
+}
