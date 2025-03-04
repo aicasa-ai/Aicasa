@@ -3,7 +3,7 @@
     <img src="https://github.com/aicasa-ai/Aicasa/blob/main/assets/aicasa-logo.png?raw=true" height="80" alt="Aicasa Logo" /><br>
   </a>
 </h1>
-<p align="center">English | <a href="./docs/README.zh.md">中文</a></p>
+<p align="center"><a href="./README.md">English</a> | 中文</p>
 
 # Aicasa 爱看相册
 
