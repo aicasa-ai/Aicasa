@@ -1,26 +1,27 @@
 <h1 align="center">
   <a href="https://github.com/kangfenmao/cherry-studio/releases">
-    <img src="https://github.com/aicasa-ai/Aicasa/blob/main/assets/aicasa-logo.png?raw=true" height="150" alt="Aicasa Logo" /><br>
+    <img src="https://github.com/aicasa-ai/Aicasa/blob/main/assets/aicasa-logo.png?raw=true" height="80" alt="Aicasa Logo" /><br>
   </a>
 </h1>
 <p align="center">English | <a href="./docs/README.zh.md">中文</a></p>
 
-# 🖼️ Aicasa
+# Aicasa
 
-Aicasa is a privacy-focused `personal photo management software` for desktops - Windows, Macos and Linux(coming soon).
+Aicasa is a privacy-focused <b>Personal Photo Management Software</b> for desktops - Windows, Macos and Linux(coming soon).
 
-Like `Google Photos`, but it scans and organizes your photo and video library `locally` on your computer to ensure `privacy`, instead of uploading them to the cloud.
+Like `Google Photos`, but it scans and organizes your photo and video library <b>locally</b> on your computer to ensure <b>privacy</b>, instead of uploading them to the cloud.
 
 Want a try? Just [Download Now](https://github.com/aicasa-ai/Aicasa/releases/latest)
 
-👏 Join [Discord](https://discord.gg/VCqXcAz6Js) | [Reddit](https://www.reddit.com/r/Aicasa/) | [X(Twitter)](https://x.com/wikkefly) | [Github](https://github.com/aicasa-ai/Aicasa)
+Or, 👏 Join our communities:
 
-<details>
-<summary>👏 Join Wechat(Click me)</summary>
-![Wechat QR Code](https://github.com/aicasa-ai/Aicasa/blob/main/assets/wechat-qrcode.png?raw=true)
-</details>
+<a href="https://discord.gg/VCqXcAz6Js" target="_blank">
+  <img src="https://github.com/aicasa-ai/Aicasa/blob/main/assets/discord.png?raw=true" height="40" alt="Discord" /><br>
+</a>
 
-<br />
+<a href="https://www.reddit.com/r/Aicasa" target="_blank">
+  <img src="https://github.com/aicasa-ai/Aicasa/blob/main/assets/reddit.png?raw=true" height="40" alt="Reddit" /><br>
+</a>
 
 # 🌠 Screenshot
 
@@ -43,3 +44,10 @@ Want a try? Just [Download Now](https://github.com/aicasa-ai/Aicasa/releases/lat
 3. **Watch Mode – Automatically sync and update your media library in real-time**
 4. **Privacy - 100% local & offline – Your photos, your control**
 5. **Unlimited Storage: Only restricted by your available disk space**
+
+# 🌐 Community
+
+👏 Join [Discord](https://discord.gg/VCqXcAz6Js) | [Reddit](https://www.reddit.com/r/Aicasa/) | [X(Twitter)](https://x.com/wikkefly)
+
+👏 Join Wechat
+![Wechat QR Code](https://github.com/aicasa-ai/Aicasa/blob/main/assets/wechat-qrcode.png?raw=true)
