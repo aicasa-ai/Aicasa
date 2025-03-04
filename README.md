@@ -13,15 +13,15 @@ Like `Google Photos`, but it scans and organizes your photo and video library <b
 
 Want a try? Just [Download Now](https://github.com/aicasa-ai/Aicasa/releases/latest)
 
-Or, 👏 Join our communities:
-
-<a href="https://discord.gg/VCqXcAz6Js" target="_blank">
-  <img src="https://github.com/aicasa-ai/Aicasa/blob/main/assets/discord.png?raw=true" height="40" alt="Discord" /><br>
-</a>
-
-<a href="https://www.reddit.com/r/Aicasa" target="_blank">
-  <img src="https://github.com/aicasa-ai/Aicasa/blob/main/assets/reddit.png?raw=true" height="40" alt="Reddit" /><br>
-</a>
+<p>
+  Or, 👏 Join our communities:
+  <a href="https://discord.gg/VCqXcAz6Js">
+    <img src="https://github.com/aicasa-ai/Aicasa/blob/main/assets/discord.png?raw=true" height="40" alt="Discord" />
+  </a>
+  <a href="https://www.reddit.com/r/Aicasa">
+    <img src="https://github.com/aicasa-ai/Aicasa/blob/main/assets/reddit.png?raw=true" height="40" alt="Reddit" />
+  </a>
+</p>
 
 # 🌠 Screenshot
 
@@ -49,5 +49,8 @@ Or, 👏 Join our communities:
 
 👏 Join [Discord](https://discord.gg/VCqXcAz6Js) | [Reddit](https://www.reddit.com/r/Aicasa/) | [X(Twitter)](https://x.com/wikkefly)
 
-👏 Join Wechat
-![Wechat QR Code](https://github.com/aicasa-ai/Aicasa/blob/main/assets/wechat-qrcode.png?raw=true)
+👏 Scan to join Wechat<br />
+
+<a href="https://github.com/aicasa-ai/Aicasa">
+    <img src="https://github.com/aicasa-ai/Aicasa/blob/main/assets/wechat-qrcode.png?raw=true" alt="Wechat QR Code" height="120">
+</a>
