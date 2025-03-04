@@ -13,7 +13,7 @@ Like `Google Photos`, but it scans and organizes your photo and video library <b
 
 Want a try? Just [Download Now](https://github.com/aicasa-ai/Aicasa/releases/latest)
 
-Or, Visit out official site: <a href="https://aicasa.media">https://aicasa.media</a> for more features.
+Or, Visit out official site: <a href="https://aicasa.media">https://aicasa.media</a>
 
 <p>
   Or, 👏 Join our communities:
