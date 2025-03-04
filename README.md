@@ -5,13 +5,15 @@
 </h1>
 <p align="center">English | <a href="./docs/README.zh.md">中文</a></p>
 
-# Aicasa
+# <a href="https://aicasa.media">Aicasa</a>
 
 Aicasa is a privacy-focused <b>Personal Photo Management Software</b> for Windows, Macos and Linux(coming soon).
 
 Like `Google Photos`, but it scans and organizes your photo and video library <b>locally</b> on your computer to ensure <b>privacy</b>, instead of uploading them to the cloud.
 
 Want a try? Just [Download Now](https://github.com/aicasa-ai/Aicasa/releases/latest)
+
+Or, Visit out official site: <a href="https://aicasa.media">https://aicasa.media</a> for more features.
 
 <p>
   Or, 👏 Join our communities:

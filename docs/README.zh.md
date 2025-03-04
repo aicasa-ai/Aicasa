@@ -3,7 +3,7 @@
     <img src="https://github.com/aicasa-ai/Aicasa/blob/main/assets/aicasa-logo.png?raw=true" height="80" alt="Aicasa Logo" /><br>
   </a>
 </h1>
-<p align="center"><a href="./README.md">English</a> | 中文</p>
+<p align="center"><a href="https://github.com/aicasa-ai/Aicasa">English</a> | 中文</p>
 
 # Aicasa 爱看相册
 
@@ -13,17 +13,11 @@ Aicasa 爱看相册是一个<b>个人照片管理软件</b>，支持 Windows, Ma
 
 想尝试一下？ [马上下载](https://github.com/aicasa-ai/Aicasa/releases/latest)
 
+或者，访问我们的 <a href="https://aicasa.media">官方网站</a>
+
 <p>
-  或者, 👏 加入我们的社区:
-  <br />
-  微信公众号<br />
+  或者, 👏 扫码关注微信公众号<br />
   <img src="https://github.com/aicasa-ai/Aicasa/blob/main/assets/wechat-qrcode.png?raw=true" alt="Wechat QR Code" height="150">
-  <a href="https://discord.gg/VCqXcAz6Js">
-    <img src="https://github.com/aicasa-ai/Aicasa/blob/main/assets/discord.png?raw=true" height="80" alt="Discord" />
-  </a>
-  <a href="https://www.reddit.com/r/Aicasa">
-    <img src="https://github.com/aicasa-ai/Aicasa/blob/main/assets/reddit.png?raw=true" height="80" alt="Reddit" />
-  </a>
 </p>
 
 # 🌠 软件截图
