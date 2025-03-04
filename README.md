@@ -3,11 +3,11 @@
     <img src="https://github.com/aicasa-ai/Aicasa/blob/main/assets/aicasa-logo.png?raw=true" height="80" alt="Aicasa Logo" /><br>
   </a>
 </h1>
-<p align="center">English | <a href="./docs/README.zh.md">中文</a></p>
+<p align="center"><a href="./README.md">English</a> | 中文</p>
 
 # Aicasa
 
-Aicasa is a privacy-focused <b>Personal Photo Management Software</b> for desktops - Windows, Macos and Linux(coming soon).
+Aicasa is a privacy-focused <b>Personal Photo Management Software</b> for Windows, Macos and Linux(coming soon).
 
 Like `Google Photos`, but it scans and organizes your photo and video library <b>locally</b> on your computer to ensure <b>privacy</b>, instead of uploading them to the cloud.
 
@@ -15,11 +15,12 @@ Want a try? Just [Download Now](https://github.com/aicasa-ai/Aicasa/releases/lat
 
 <p>
   Or, 👏 Join our communities:
+  <br />
   <a href="https://discord.gg/VCqXcAz6Js">
-    <img src="https://github.com/aicasa-ai/Aicasa/blob/main/assets/discord.png?raw=true" height="40" alt="Discord" />
+    <img src="https://github.com/aicasa-ai/Aicasa/blob/main/assets/discord.png?raw=true" height="80" alt="Discord" />
   </a>
   <a href="https://www.reddit.com/r/Aicasa">
-    <img src="https://github.com/aicasa-ai/Aicasa/blob/main/assets/reddit.png?raw=true" height="40" alt="Reddit" />
+    <img src="https://github.com/aicasa-ai/Aicasa/blob/main/assets/reddit.png?raw=true" height="80" alt="Reddit" />
   </a>
 </p>
 
@@ -51,6 +52,4 @@ Want a try? Just [Download Now](https://github.com/aicasa-ai/Aicasa/releases/lat
 
 👏 Scan to join Wechat<br />
 
-<a href="https://github.com/aicasa-ai/Aicasa">
-    <img src="https://github.com/aicasa-ai/Aicasa/blob/main/assets/wechat-qrcode.png?raw=true" alt="Wechat QR Code" height="120">
-</a>
+<img src="https://github.com/aicasa-ai/Aicasa/blob/main/assets/wechat-qrcode.png?raw=true" alt="Wechat QR Code" height="150">
