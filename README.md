@@ -1,19 +1,15 @@
 <h1 align="center">
-  <a href="https://github.com/kangfenmao/cherry-studio/releases">
-    <img src="https://github.com/aicasa-ai/Aicasa/blob/main/assets/aicasa-logo.png?raw=true" height="80" alt="Aicasa Logo" /><br>
-  </a>
+  <img src="https://github.com/aicasa-ai/Aicasa/blob/main/assets/aicasa-logo.png?raw=true" height="80" alt="Aicasa Logo" /><br>
 </h1>
 <p align="center">English | <a href="./docs/README.zh.md">中文</a></p>
 
-# <a href="https://aicasa.media">Aicasa</a>
+# Aicasa has been rename to <a href="https://github.com/SelfPhotos/SelfPhotos">Self Photos</a>
 
 Aicasa is a privacy-focused <b>Personal Photo Management Software</b> for Windows, Macos and Linux(coming soon).
 
 Like `Google Photos`, but it scans and organizes your photo and video library <b>locally</b> on your computer to ensure <b>privacy</b>, instead of uploading them to the cloud.
 
 Want a try? Just [Download Now](https://github.com/aicasa-ai/Aicasa/releases/latest)
-
-Or, Visit out official site: <a href="https://aicasa.media">https://aicasa.media</a>
 
 <p>
   Or, 👏 Join our communities:
@@ -50,7 +46,7 @@ Or, Visit out official site: <a href="https://aicasa.media">https://aicasa.media
 
 # 🌐 Community
 
-👏 Join [Discord](https://discord.gg/VCqXcAz6Js) | [Reddit](https://www.reddit.com/r/Aicasa/) | [X(Twitter)](https://x.com/wikkefly)
+👏 Join [Discord](https://discord.gg/VCqXcAz6Js) | [X(Twitter)](https://x.com/wikkefly)
 
 👏 Scan to join Wechat<br />
 
