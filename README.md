@@ -3,7 +3,7 @@
 </h1>
 <p align="center">English | <a href="./docs/README.zh.md">中文</a></p>
 
-# Aicasa has been rename to <a href="https://github.com/SelfPhotos/SelfPhotos">Self Photos</a>
+# Aicasa has been renamed and upgraded as <a href="https://github.com/SelfPhotos/SelfPhotos">Self Photos</a>
 
 Aicasa is a privacy-focused <b>Personal Photo Management Software</b> for Windows, Macos and Linux(coming soon).
 
